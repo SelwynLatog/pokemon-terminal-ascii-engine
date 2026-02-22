@@ -17,7 +17,7 @@ student information system!", then there's this. "haha make the entire game in t
 The project has genuinely taught me a lot. It doesn't look flashy and future me will probably laugh at this,
 but this is one of those projects that I'll proudly look back to. Thank you Nescafe coffee sticks.
 
-Features includ:
+Features include:
 *Cursor-driven menus and text-based UI
 *Full turn-based battle engine:
   Type effectiveness and STAB
@@ -40,7 +40,20 @@ Concepts Practiced (I think):
 
 #How to Run
 
-1. Compile using g++
-2. Run 'PokemonConsole.cpp' on a Windows terminal (or Linux via Wine)
+1. Compile using g++: g++ PokemonConsole.cpp -o pokemon
+2. Run the output: ./pokemon (Linux/Wine) or pokemon.exe (Windows)
+
 Note: Built with Windows-based includes, so Windows recommended. We had
-to present it via a Windows laptop. Don't torch me pls. 
+to present it via a Windows laptop. Don't torch me pls.
+
+
+
+
+<img width="1135" height="636" alt="Pokemonss4" src="https://github.com/user-attachments/assets/03ba8a7b-b3be-4575-b600-01edab284284" />
+
+<img width="467" height="458" alt="Pokemonss3" src="https://github.com/user-attachments/assets/c97cc60c-2be8-46fc-9e25-caa32a599a52" />
+
+<img width="537" height="444" alt="POKEMONSS" src="https://github.com/user-attachments/assets/9277e70d-9642-4392-8e4c-32a1f1969015" />
+
+<img width="389" height="386" alt="PokemonSS5" src="https://github.com/user-attachments/assets/0e5f8d1d-9a1e-4d04-8338-ec092ed77fc5" />
+
