@@ -57,3 +57,5 @@ to present it via a Windows laptop. Don't torch me pls.
 
 <img width="389" height="386" alt="PokemonSS5" src="https://github.com/user-attachments/assets/0e5f8d1d-9a1e-4d04-8338-ec092ed77fc5" />
 
+<img width="692" height="374" alt="pokemonss2" src="https://github.com/user-attachments/assets/314357c6-beba-4285-8a3e-fb9cdd9a64c3" />
+
