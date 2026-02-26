@@ -37,7 +37,7 @@ The project has genuinely taught me a lot. It doesn't look flashy and future me 
 # How to Run
 
 1. Compile using g++:
-   g++ PokemonConsole.cpp -o pokemon
+   g++ main.cpp -o pokemon
    
 3. Run the output:
    ./pokemon
